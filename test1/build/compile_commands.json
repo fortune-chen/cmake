@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/chen/cmake/test1/build/src",
+  "command": "/usr/bin/c89-gcc  -I/home/chen/cmake/test1/src/../include  -g   -o CMakeFiles/main.dir/main.c.o   -c /home/chen/cmake/test1/src/main.c",
+  "file": "/home/chen/cmake/test1/src/main.c"
+},
+{
+  "directory": "/home/chen/cmake/test1/build/src",
+  "command": "/usr/bin/c89-gcc  -I/home/chen/cmake/test1/src/../include  -g   -o CMakeFiles/main.dir/testfunc.c.o   -c /home/chen/cmake/test1/src/testfunc.c",
+  "file": "/home/chen/cmake/test1/src/testfunc.c"
+},
+{
+  "directory": "/home/chen/cmake/test1/build/src",
+  "command": "/usr/bin/c89-gcc  -I/home/chen/cmake/test1/src/../include  -g   -o CMakeFiles/main.dir/testfunc1.c.o   -c /home/chen/cmake/test1/src/testfunc1.c",
+  "file": "/home/chen/cmake/test1/src/testfunc1.c"
+}
+]
